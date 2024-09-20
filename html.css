@@ -1,0 +1,40 @@
+.a1{
+    background-color: lightskyblue;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    border: 1px solid black
+}
+div{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    background-color: lightskyblue;
+    border: 1px dotted black
+    
+}
+
+img{
+    width: 35%;
+    padding-left: 250px;
+
+}
+#HTML, #CSS, #github, #borders, #margins and padding, #box model{
+    text-align: center;
+    background-color: lightcoral;
+    font-size: 30px;
+    color: white;
+    border: 3px solid black
+} 
+.sha{
+    text-align: center;
+    background-color: lightcoral;
+    font-size: 30px;
+    color: white;
+    border: 3px solid black
+}
+body{
+    border: 2px double black
+}
+
+
